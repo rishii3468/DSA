@@ -1,0 +1,1 @@
+int left = 2*i, right = left+1;
